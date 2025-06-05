@@ -10,6 +10,3 @@ En este repositorio encontrarás soluciones en **Python** (y en **C++** para qui
 - [Weekly 2](./Weekly2/README.md)
 
 ---
-
-## 📂 Estructura del Repositorio
-
