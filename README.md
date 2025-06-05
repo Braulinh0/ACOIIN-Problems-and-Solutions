@@ -1,17 +1,17 @@
 # 🧠 ACOIIN – Problems and Solutions
 
-En este repositorio encontrarás soluciones en Python (y en C++ para quienes tengan curiosidad) a los problemas semanales propuestos por la academia ACOIIN.
+In this repository you will find solutions in Python (and C++ for those who are curious) to the weekly problems proposed by the ACOIIN academy.
 
 ---
 
-## 🚀 Objetivo
+## 🚀 General Objective
 
-Este repositorio busca fomentar la práctica de resolución de problemas de programación, desarrollando tanto el pensamiento lógico como la habilidad técnica.  
-Cada semana se suben problemas nuevos con sus respectivas soluciones en dos lenguajes distintos un día antes de la clase.
+This repository aims to encourage programming problem-solving, developing both logical thinking and technical skills.
+New problems with their respective solutions in two different languages ​​are uploaded each week the day before class.
 
 ---
 
-## 📅 Problemas Semanales
+## 📅 Weekly Problems
 
 ### ✅ Weekly 1
 - [🟨 Python](./Semana%201/python)
@@ -21,6 +21,6 @@ Cada semana se suben problemas nuevos con sus respectivas soluciones en dos leng
 - [🟨 Python](./Semana%202/python)
 - [🟦 C++](./Semana%202/cpp)
 
-> 📌 Puedes revisar cada semana para ver el enunciado del problema, la solución comentada y mejoras posibles.
+> 📌 You can check back each week to see the problem statement, the discussed solution, and possible improvements.
 
 ---
