@@ -1,5 +1,15 @@
-# ACOIIN-Problems-and-Solutions
-In this repository you will find Python (and C++ for the curious) solutions to the weekly problems submitted.
+# 🧠 ACOIIN – Problems and Solutions
 
-Weekly 1
-Weekly 2
+En este repositorio encontrarás soluciones en **Python** (y en **C++** para quienes tengan curiosidad) a los problemas semanales propuestos.
+
+---
+
+## 📅 Problemas Semanales
+
+- [Weekly 1](./Weekly1/README.md)
+- [Weekly 2](./Weekly2/README.md)
+
+---
+
+## 📂 Estructura del Repositorio
+
