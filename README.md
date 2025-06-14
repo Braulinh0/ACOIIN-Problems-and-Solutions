@@ -21,6 +21,10 @@ New problems with their respective solutions in two different languages ​​ar
 - [🟨 Python](./Semana%202/python)
 - [🟦 C++](./Semana%202/cpp)
 
+### ✅ Weekly 3
+- [🟨 Python](./Semana%203/python)
+- [🟦 C++](./Semana%203/cpp)
+
 > 📌 You can check back each week to see the problem statement, the discussed solution, and possible improvements.
 
 ---
