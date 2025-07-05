@@ -1,12 +1,12 @@
-t = int(input())
+n = int(input())
 
 count = 0
 suma = 0
-for i in range(t) :
-    n = int(input())
+for i in range(n) :
+    m = int(input())
     
-    if n >= 1 and n <= 10 :
-        suma += n
+    if m >= 1 and m <= 10 :
+        suma += m
         count += 1
     else :
         continue
