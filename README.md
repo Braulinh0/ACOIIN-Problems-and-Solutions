@@ -35,6 +35,9 @@ New problems with their respective solutions in two different languages ​​ar
 
 ### ✅ Weekly 6
 - [🟨 Python](./Semana%206)
+  
+### ✅ Weekly 6
+- [🟨 Python](./Semana%207)
 
 > 📌 You can check back each week to see the problem statement, the discussed solution, and possible improvements.
 
