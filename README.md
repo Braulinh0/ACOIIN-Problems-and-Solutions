@@ -29,6 +29,13 @@ New problems with their respective solutions in two different languages ​​ar
 - [🟨 Python](./Semana%204/python)
 - [🟦 C++](./Semana%204/cpp)
 
+### ✅ Weekly 5
+- [🟨 Python](./Semana%205/python)
+- [🟦 C++](./Semana%205/cpp)
+
+### ✅ Weekly 6
+- [🟨 Python](./Semana%206/matriz.py)
+
 > 📌 You can check back each week to see the problem statement, the discussed solution, and possible improvements.
 
 ---
