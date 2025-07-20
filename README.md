@@ -1,4 +1,4 @@
-# 🧠 ACOIIN – Problems and Solutions
+# 🧠 ACOIIN 2025
 
 In this repository you will find solutions in Python (and C++ for those who are curious) to the weekly problems proposed by the ACOIIN academy.
 
