@@ -34,7 +34,7 @@ New problems with their respective solutions in two different languages ​​ar
 - [🟦 C++](./Semana%205/cpp)
 
 ### ✅ Weekly 6
-- [🟨 Python](./Semana%206/matriz.py)
+- [🟨 Python](./Semana%206)
 
 > 📌 You can check back each week to see the problem statement, the discussed solution, and possible improvements.
 
