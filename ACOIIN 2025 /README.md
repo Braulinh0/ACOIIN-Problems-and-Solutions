@@ -18,26 +18,26 @@ New problems with their respective solutions in two different languages ​​ar
 - [🟦 C++](./Semana%201/C%2B%2B)
 
 ### ✅ Weekly 2
-- [🟨 Python](./Semana%202/python)
-- [🟦 C++](./Semana%202/cpp)
+- [🟨 Python](./Semana%202/Python)
+- [🟦 C++](./Semana%202/C%2B%2B)
 
 ### ✅ Weekly 3
-- [🟨 Python](./Semana%203/python)
-- [🟦 C++](./Semana%203/cpp)
+- [🟨 Python](./Semana%203/Python)
+- [🟦 C++](./Semana%203/C%2B%2B)
 
 ### ✅ Weekly 4
-- [🟨 Python](./Semana%204/python)
-- [🟦 C++](./Semana%204/cpp)
+- [🟨 Python](./Semana%204/Python)
+- [🟦 C++](./Semana%204/C%2B%2B)
 
 ### ✅ Weekly 5
-- [🟨 Python](./Semana%205/python)
-- [🟦 C++](./Semana%205/cpp)
+- [🟨 Python](./Semana%205/Python)
+- [🟦 C++](./Semana%205/C%2B%2B)
 
 ### ✅ Weekly 6
-- [🟨 Python](./Semana%206)
+- [🟨 Python: Matrices](./Semana%206)
   
 ### ✅ Weekly 7
-- [🟨 Python](./Semana%207)
+- [🟨 Python: Repaso](./Semana%207)
 
 > 📌 You can check back each week to see the problem statement, the discussed solution, and possible improvements.
 
