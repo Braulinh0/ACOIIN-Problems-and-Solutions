@@ -10,7 +10,7 @@ The goal of this repository is to serve as a learning resource, reference materi
 
 The repository is organized by editions/years of ACOIIN:
 
-- **[ACOIIN 2025]**(./ACOIIN%202025%20/)
+- **[ACOIIN 2025](./ACOIIN%202025%20/)**
   Weekly problem sets and their solutions in Python and C++.
 
 (Future editions will be added following the same structure.)
