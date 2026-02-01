@@ -15,7 +15,7 @@ New problems with their respective solutions in two different languages ​​ar
 
 ### ✅ Weekly 1
 - [🟨 Python](./Semana%201/python)
-- [🟦 C++](./Semana%201/cpp)
+- [🟦 C++](./ACOIIN%202025%20/Semana%201/C%2B%2B)
 
 ### ✅ Weekly 2
 - [🟨 Python](./Semana%202/python)
