@@ -34,10 +34,10 @@ New problems with their respective solutions in two different languages ​​ar
 - [🟦 C++](./Semana%205/C%2B%2B)
 
 ### ✅ Weekly 6
-- [🟨 Python: Matrices](./Semana%206)
+- [🟨 Python: Arrays](./Semana%206)
   
 ### ✅ Weekly 7
-- [🟨 Python: Repaso](./Semana%207)
+- [🟨 Python: Review](./Semana%207)
 
 > 📌 You can check back each week to see the problem statement, the discussed solution, and possible improvements.
 
