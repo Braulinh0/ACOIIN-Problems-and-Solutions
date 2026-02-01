@@ -1,4 +1,4 @@
-# 🧠 ACOIIN 2025
+# 🧠 ACOIIN
 
 In this repository you will find solutions in Python (and C++ for those who are curious) to the weekly problems proposed by the ACOIIN academy.
 
@@ -17,28 +17,41 @@ New problems with their respective solutions in two different languages ​​ar
 - [🟨 Python](./Semana%201/python)
 - [🟦 C++](./Semana%201/cpp)
 
-### ✅ Weekly 2
-- [🟨 Python](./Semana%202/python)
-- [🟦 C++](./Semana%202/cpp)
+# ACOIIN – Problems and Solutions
 
-### ✅ Weekly 3
-- [🟨 Python](./Semana%203/python)
-- [🟦 C++](./Semana%203/cpp)
+In this repository you will find solutions to the programming problems proposed by the ACOIIN academy across different years and instances.
 
-### ✅ Weekly 4
-- [🟨 Python](./Semana%204/python)
-- [🟦 C++](./Semana%204/cpp)
-
-### ✅ Weekly 5
-- [🟨 Python](./Semana%205/python)
-- [🟦 C++](./Semana%205/cpp)
-
-### ✅ Weekly 6
-- [🟨 Python](./Semana%206)
-  
-### ✅ Weekly 7
-- [🟨 Python](./Semana%207)
-
-> 📌 You can check back each week to see the problem statement, the discussed solution, and possible improvements.
+The goal of this repository is to serve as a learning resource, reference material, and historical archive of the academy’s work.
 
 ---
+
+## 📂 Repository Structure
+
+The repository is organized by editions/years of ACOIIN:
+
+- [ACOIIN 2025](./ACOIIN%202025%20/)
+  Weekly problem sets and their solutions in Python and C++.
+
+(Future editions will be added following the same structure.)
+
+---
+
+## 🧠 Languages Used
+
+- 🐍 Python  
+- ⚙️ C++
+
+---
+
+## 🎯 Purpose
+
+This repository aims to encourage algorithmic thinking and problem-solving skills, helping students improve their logic, coding practices, and familiarity with competitive programming concepts.
+
+---
+
+## 📌 Notes
+
+- Problems are uploaded weekly.
+- Solutions are meant for educational purposes.
+- Multiple approaches may exist for the same problem.
+
